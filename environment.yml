@@ -1,0 +1,10 @@
+name: voila-spotify
+channels:
+  - conda-forge
+dependencies:
+  - numpy
+  - pandas
+  - ipympl
+  - seaborn
+  - voila
+  - voila-material
