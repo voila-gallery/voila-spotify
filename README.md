@@ -1,6 +1,6 @@
 # Voila Spotify
 
-[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/martinRenou/voila-spotify/master?urlpath=%2Fvoila%2Frender%2FSpotify_viewer.ipynb)
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/voila-gallery/voila-spotify/master?urlpath=%2Fvoila%2Frender%2FSpotify_viewer.ipynb)
 
 Spotify data viewer using Voila.
 
