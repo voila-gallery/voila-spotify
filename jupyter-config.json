@@ -1,0 +1,6 @@
+{
+  "VoilaConfiguration": {
+    "template": "material",
+    "enable_nbextensions": true
+  }
+}
